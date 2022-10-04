@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @mkukilo
 - 👀 I’m interested in web development and new ways to design
 - 🌱 I’m currently learning Javascript, PHP, Java and SQL
-- 💞️ I’m working on a private project with my classmates at the moment
+- 💞️ I'm looking for ideas for my thesis with my 2 classmates together
 - 📫 How to reach me - You can reach me under kukilomilos@gmail.com. Responses take about a day.
 
 <!---
