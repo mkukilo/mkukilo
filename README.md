@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @mkukilo
 - 👀 I’m interested in web development and new ways to design
-- 🌱 I’m currently learning Javascript, PHP, Java and SQL
+- 🌱 I’m currently working on a project with my classmates that's based on Angular/Ionic
 - 💞️ I'm looking for ideas for my thesis with my 2 classmates together
 - 📫 How to reach me - You can reach me under kukilomilos@gmail.com. Responses take about a day.
 
